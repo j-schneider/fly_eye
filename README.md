@@ -1,7 +1,9 @@
 # fly-eye
 
 Code used in the PLOS ONE publication:
+
 "Can Drosophila melanogaster tell who's who?"
+
 (https://doi.org/10.1371/journal.pone.0205043)
 
 Data can be downloaded from: https://doi.org/10.5683/SP2/JP4WDF
